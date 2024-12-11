@@ -20,7 +20,7 @@ A Functional Programming Style lover who is getting supported to seek next job.
 
 ### Difficulties
 
-|Symptom|Coping|
+|Symptom/Inaptness|Coping|
 | :- | :- |
 |Much/Parallel works|<ul><li>Making sure notes.</li><li>Coordinating recognizations frequently.</li></ul>|
 |Some accident|<ul><li>Beforehand with information gathering.</li></ul>|

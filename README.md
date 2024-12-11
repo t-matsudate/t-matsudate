@@ -22,6 +22,6 @@ A Functional Programming Style lover who is getting supported to seek next job.
 
 |Symptom/Inaptness|Coping|
 | :- | :- |
-|Much/Parallel works|<ul><li>Making sure notes.</li><li>Coordinating recognizations frequently.</li></ul>|
+|Much/Parallel works|<ul><li>Making notes surely.</li><li>Coordinating recognizations frequently.</li></ul>|
 |Some accident|<ul><li>Beforehand with information gathering.</li></ul>|
 |Forgetfulness at the last moment|<ul><li>Reminding carefully.</li></ul>|

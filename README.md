@@ -12,6 +12,7 @@ A Functional Programming Style lover who is getting supported to seek next job.
 | :- | :- |
 |[Sheave](https://github.com/t-matsudate/sheave)|An RTMP server/client implementation by Rust.|
 |[Phel](https://github.com/phel-lang/phel-lang)|Phel is a functional programming language that transpiles to PHP. A Lisp dialect inspired by Clojure and Janet.|
+|[VOX Verse](https://gitlab.com/t-matsudate/vox-verse)|The web application that makes to post synthetic speech data more enjoyable.|
 
 ## Disorders
 

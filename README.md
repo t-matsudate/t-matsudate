@@ -26,3 +26,7 @@ A Functional Programming Style lover who is getting supported to seek next job.
 |Much/Parallel works|<ul><li>Making notes surely.</li><li>Coordinating recognizations frequently.</li></ul>|
 |Some accident|<ul><li>Beforehand with information gathering.</li></ul>|
 |Forgetfulness at the last moment|<ul><li>Reminding carefully.</li></ul>|
+
+## Donation
+
+[PayPal Me](https://paypal.me/funchs)
